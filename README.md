@@ -10,7 +10,6 @@ This project is a web scraper that extracts data from specified web pages and sa
 
 - Python 3.8+
 - MongoDB
-- PostgreSQL
 
 ### Installation
 
