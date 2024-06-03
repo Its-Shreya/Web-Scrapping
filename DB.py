@@ -1,5 +1,4 @@
-# This db is then called by node in report page
-##
+
 from config.plagReportDB import client
 from bson import ObjectId
 import datetime as dt
